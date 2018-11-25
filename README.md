@@ -123,15 +123,23 @@ Do you wish to continue, Please enter Y for Yes, N for No
 y
 
 Please enter -f to give file as input
+
 Or Enter -x for conversion of Hexadecimal String
+
 Or Enter the String: 
 
 You forgot to enter the input,Please enter -f for file or -x for hexadecimal conversion or directly enter a String
+
 1234567890
+
 Decimal value for sum of all numeric values in String is 45
+
 Do you wish to continue, Please enter Y for Yes, N for No
+
 n
+
 Exited! Thank You.
+
 -------------------------------------------------------------------------------------
 
 
