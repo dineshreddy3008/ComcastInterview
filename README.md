@@ -1,11 +1,15 @@
                                            String/File to Decimal Sum
 Project Name: ComcastInterview
+
 Files In the Project:
 1.	MainClass
 2.	StringToDecimal
 3.	StringToDecimalTest
+
 Eclipse:  This project is developed on Eclipse IDE platform using Java 1.8 . Import this project into Eclipse to execute the project. Upon prompted, give the valid text file path where file is stored.
+
 OR
+
 Command Prompt: Execute the following commands in the command prompt.
 1.	Comment the package on top of MainClass.java and StringToDecimal.java
 2.	Type javac *.java for compilation of both classes
